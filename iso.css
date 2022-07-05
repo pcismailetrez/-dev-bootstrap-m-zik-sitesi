@@ -1,0 +1,29 @@
+.mavi{
+    background-color: blue;
+}
+.beyaz{
+    color: rgb(228, 223, 220);
+}
+.ortalama{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.turuncu{
+    color: crimson;
+}
+.sıkıntı{
+    background-color: black;
+
+}
+.arkaplan{
+    background-color: #E9ECEF;
+}
+.yükseklik{
+    height: 45px;
+}
+.link-boyutu{
+    font: size 90px;
+}
+
